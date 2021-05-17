@@ -19,3 +19,5 @@ static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
 static const char * font_name = "6x10";
+/* time in seconds before the monitor shuts down */
+static const int monitortime = 5;

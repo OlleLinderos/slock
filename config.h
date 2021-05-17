@@ -13,3 +13,6 @@ static const int failonclear = 1;
 static const char * message = "I'm locked";
 static const char * text_color = "#ffffff";
 static const char * font_name = "6x13";
+
+/* time in seconds before the monitor shuts down */
+static const int monitortime = 5;
